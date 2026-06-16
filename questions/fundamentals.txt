@@ -1,0 +1,406 @@
+QUESTION|What does OHLC stand for?
+CHOICES|Open,High,Low,Close;Open,Hold,Low,Close;Order,High,Low,Close;Open,High,Last,Close
+ANSWER|Open,High,Low,Close
+CATEGORY|OHLC
+POINTS|1
+
+QUESTION|The Open represents:
+CHOICES|The first traded price during the period;The last traded price during the period;The highest traded price;The lowest traded price
+ANSWER|The first traded price during the period
+CATEGORY|OHLC
+POINTS|1
+
+QUESTION|The Close represents:
+CHOICES|The first traded price during the period;The last traded price during the period;The highest traded price;The lowest traded price
+ANSWER|The last traded price during the period
+CATEGORY|OHLC
+POINTS|1
+
+QUESTION|The High represents:
+CHOICES|The highest traded price during the period;The lowest traded price during the period;The opening price;The closing price
+ANSWER|The highest traded price during the period
+CATEGORY|OHLC
+POINTS|1
+
+QUESTION|The Low represents:
+CHOICES|The highest traded price during the period;The lowest traded price during the period;The opening price;The closing price
+ANSWER|The lowest traded price during the period
+CATEGORY|OHLC
+POINTS|1
+
+QUESTION|Which value occurs first during the candle period?
+CHOICES|Open;Close;High;Low
+ANSWER|Open
+CATEGORY|OHLC
+POINTS|1
+
+QUESTION|Which value occurs last during the candle period?
+CHOICES|Close;Open;High;Low
+ANSWER|Close
+CATEGORY|OHLC
+POINTS|1
+
+QUESTION|The trading range of a candle is measured from:
+CHOICES|High to Low;Open to Close;Open to High;Close to Low
+ANSWER|High to Low
+CATEGORY|OHLC
+POINTS|1
+
+QUESTION|Every candle contains which four prices?
+CHOICES|Open,High,Low,Close;Open,Average,Low,Close;High,Low,Volume,Close;Open,Volume,High,Close
+ANSWER|Open,High,Low,Close
+CATEGORY|OHLC
+POINTS|1
+
+QUESTION|A candlestick summarizes price action over:
+CHOICES|A specific time interval;Only one trade;One week exactly;One month exactly
+ANSWER|A specific time interval
+CATEGORY|OHLC
+POINTS|1
+
+QUESTION|The rectangular portion of a candlestick is called:
+CHOICES|Body;Wick;Tail;Range
+ANSWER|Body
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|The line extending above the body is called:
+CHOICES|Upper Wick;Lower Wick;Trendline;Range
+ANSWER|Upper Wick
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|The line extending below the body is called:
+CHOICES|Lower Wick;Upper Wick;Trendline;Range
+ANSWER|Lower Wick
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|The body represents:
+CHOICES|The distance between Open and Close;The distance between High and Low;The trading volume;The trend direction
+ANSWER|The distance between Open and Close
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|A large body generally indicates:
+CHOICES|Strong conviction;Indecision;No volume;No trend
+ANSWER|Strong conviction
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|A small body generally indicates:
+CHOICES|Indecision;Strong conviction;Breakout;Continuation
+ANSWER|Indecision
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|A candle with long wicks and a small body often indicates:
+CHOICES|Market indecision;Strong bullish conviction;Strong bearish conviction;Guaranteed reversal
+ANSWER|Market indecision
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|The upper wick measures price movement:
+CHOICES|Above the body;Below the body;Inside the body;At the open only
+ANSWER|Above the body
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|The lower wick measures price movement:
+CHOICES|Below the body;Above the body;Inside the body;At the close only
+ANSWER|Below the body
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|The wick shows:
+CHOICES|Price extremes reached during the period;Volume;Trend direction only;Support levels only
+ANSWER|Price extremes reached during the period
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|A candle can have:
+CHOICES|Both upper and lower wicks;Only an upper wick;Only a lower wick;Any of these
+ANSWER|Any of these
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|A body with almost no height indicates:
+CHOICES|Open and Close are nearly equal;High equals Low;Strong bullish momentum;Strong bearish momentum
+ANSWER|Open and Close are nearly equal
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|The longest possible candle body occurs when:
+CHOICES|There are little or no wicks;Both wicks are very long;The candle is neutral;The market is closed
+ANSWER|There are little or no wicks
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|The candle body contains:
+CHOICES|Open and Close;High and Low only;Support and Resistance;Volume data
+ANSWER|Open and Close
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|The full candle includes:
+CHOICES|Body and Wicks;Only Body;Only Wicks;Trendlines
+ANSWER|Body and Wicks
+CATEGORY|Anatomy
+POINTS|1
+
+QUESTION|A green candle means:
+CHOICES|Close > Open;Open > Close;High > Low;Low > High
+ANSWER|Close > Open
+CATEGORY|Candle Meaning
+POINTS|1
+
+QUESTION|A red candle means:
+CHOICES|Open > Close;Close > Open;High > Low;Low > High
+ANSWER|Open > Close
+CATEGORY|Candle Meaning
+POINTS|1
+
+QUESTION|On a green candle, the Close is:
+CHOICES|Above the Open;Below the Open;Equal to the Open;At the Low
+ANSWER|Above the Open
+CATEGORY|Candle Meaning
+POINTS|1
+
+QUESTION|On a red candle, the Close is:
+CHOICES|Below the Open;Above the Open;Equal to the Open;At the High
+ANSWER|Below the Open
+CATEGORY|Candle Meaning
+POINTS|1
+
+QUESTION|A long lower wick often suggests:
+CHOICES|Buyers rejected lower prices;Sellers rejected higher prices;A breakout occurred;No trading occurred
+ANSWER|Buyers rejected lower prices
+CATEGORY|Candle Meaning
+POINTS|1
+
+QUESTION|A long upper wick often suggests:
+CHOICES|Sellers rejected higher prices;Buyers rejected lower prices;No trading occurred;A breakout occurred
+ANSWER|Sellers rejected higher prices
+CATEGORY|Candle Meaning
+POINTS|1
+
+QUESTION|A large green body often indicates:
+CHOICES|Strong buying pressure;Strong selling pressure;Indecision;Consolidation
+ANSWER|Strong buying pressure
+CATEGORY|Candle Meaning
+POINTS|1
+
+QUESTION|A large red body often indicates:
+CHOICES|Strong selling pressure;Strong buying pressure;Indecision;Consolidation
+ANSWER|Strong selling pressure
+CATEGORY|Candle Meaning
+POINTS|1
+
+QUESTION|A small-bodied candle often suggests:
+CHOICES|Indecision;Strong trend continuation;Guaranteed reversal;Breakout
+ANSWER|Indecision
+CATEGORY|Candle Meaning
+POINTS|1
+
+QUESTION|A candle's color is determined by:
+CHOICES|The relationship between Open and Close;The relationship between High and Low;Volume;Timeframe
+ANSWER|The relationship between Open and Close
+CATEGORY|Candle Meaning
+POINTS|1
+
+QUESTION|Support is best described as:
+IMAGE|images/support.png
+CHOICES|An area where buyers repeatedly enter;An area where sellers repeatedly enter;A breakout zone;A trendline
+ANSWER|An area where buyers repeatedly enter
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|What market structure is shown?
+IMAGE|images/support.png
+CHOICES|Support;Resistance;Confluence;Breakout
+ANSWER|Support
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|What market structure is shown?
+IMAGE|images/resistance.png
+CHOICES|Support;Resistance;Confluence;Breakout
+ANSWER|Resistance
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|Resistance is best described as:
+IMAGE|images/resistance.png
+CHOICES|An area where sellers repeatedly enter;An area where buyers repeatedly enter;A breakout zone;A trendline
+ANSWER|An area where sellers repeatedly enter
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|Price often reacts at support because:
+CHOICES|Buyers may view the price as attractive;The market is closed;Volume disappears;Candles become smaller
+ANSWER|Buyers may view the price as attractive
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|Price often reacts at resistance because:
+CHOICES|Sellers may view the price as expensive;The market is closed;Volume disappears;Candles become smaller
+ANSWER|Sellers may view the price as expensive
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|Multiple price bounces from the same level often indicate:
+CHOICES|Support or Resistance;A breakout;A trend reversal;Market closure
+ANSWER|Support or Resistance
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|A level that repeatedly prevents price from moving higher is called:
+IMAGE|images/resistance.png
+CHOICES|Resistance;Support;Confluence;Trendline
+ANSWER|Resistance
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|A level that repeatedly prevents price from moving lower is called:
+IMAGE|images/support.png
+CHOICES|Support;Resistance;Confluence;Trendline
+ANSWER|Support
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|Confluence occurs when:
+CHOICES|Multiple technical factors align;Price stops moving;Volume decreases;Candles become smaller
+ANSWER|Multiple technical factors align
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|What market structure is shown?
+IMAGE|images/confluence.png
+CHOICES|Support;Resistance;Confluence;Trend
+ANSWER|Confluence
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|Confluence generally:
+IMAGE|images/confluence.png
+CHOICES|Increases the significance of an area;Guarantees a trade will work;Eliminates risk;Predicts exact price targets
+ANSWER|Increases the significance of an area
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|Support combined with a bullish candlestick pattern is often considered:
+CHOICES|Stronger than either signal alone;Weaker than either signal alone;Irrelevant;A guaranteed trade
+ANSWER|Stronger than either signal alone
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|Resistance combined with a bearish candlestick pattern is often considered:
+CHOICES|Stronger than either signal alone;Weaker than either signal alone;Irrelevant;A guaranteed trade
+ANSWER|Stronger than either signal alone
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|A trendline intersecting support is an example of:
+CHOICES|Confluence;Breakout;Consolidation;Volume analysis
+ANSWER|Confluence
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|A trendline intersecting resistance is an example of:
+IMAGE|images/confluence.png
+CHOICES|Confluence;Breakout;Consolidation;Volume analysis
+ANSWER|Confluence
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|Support and resistance are:
+CHOICES|Areas, not exact prices;Exact prices only;Guaranteed turning points;Indicators
+ANSWER|Areas, not exact prices
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|The primary purpose of identifying support and resistance is to:
+CHOICES|Locate potential reaction areas;Predict exact future prices;Eliminate risk;Determine volume
+ANSWER|Locate potential reaction areas
+CATEGORY|Structure
+POINTS|1
+
+QUESTION|What trend is shown?
+IMAGE|images/uptrend.png
+CHOICES|Uptrend;Downtrend;Consolidation;Breakout
+ANSWER|Uptrend
+CATEGORY|Trend
+POINTS|1
+
+QUESTION|An uptrend is characterized by:
+IMAGE|images/uptrend.png
+CHOICES|Higher highs and higher lows;Lower highs and lower lows;Sideways movement;No candles
+ANSWER|Higher highs and higher lows
+CATEGORY|Trend
+POINTS|1
+
+QUESTION|What trend is shown?
+IMAGE|images/downtrend.png
+CHOICES|Uptrend;Downtrend;Consolidation;Breakout
+ANSWER|Downtrend
+CATEGORY|Trend
+POINTS|1
+
+QUESTION|A downtrend is characterized by:
+IMAGE|images/downtrend.png
+CHOICES|Lower highs and lower lows;Higher highs and higher lows;Sideways movement;No candles
+ANSWER|Lower highs and lower lows
+CATEGORY|Trend
+POINTS|1
+
+QUESTION|A market moving sideways is often called:
+CHOICES|Consolidation;Breakout;Trend reversal;Momentum
+ANSWER|Consolidation
+CATEGORY|Trend
+POINTS|1
+
+QUESTION|In an uptrend, buyers generally:
+IMAGE|images/uptrend.png
+CHOICES|Maintain control;Lose control;Disappear;Stop trading
+ANSWER|Maintain control
+CATEGORY|Trend
+POINTS|1
+
+QUESTION|In a downtrend, sellers generally:
+IMAGE|images/downtrend.png
+CHOICES|Maintain control;Lose control;Disappear;Stop trading
+ANSWER|Maintain control
+CATEGORY|Trend
+POINTS|1
+
+QUESTION|A higher low is commonly associated with:
+IMAGE|images/uptrend.png
+CHOICES|An uptrend;A downtrend;Consolidation only;A breakout
+ANSWER|An uptrend
+CATEGORY|Trend
+POINTS|1
+
+QUESTION|A lower high is commonly associated with:
+IMAGE|images/downtrend.png
+CHOICES|A downtrend;An uptrend;Consolidation only;A breakout
+ANSWER|A downtrend
+CATEGORY|Trend
+POINTS|1
+
+QUESTION|Trend recognition helps traders:
+CHOICES|Understand market direction;Predict exact prices;Eliminate risk;Determine volume
+ANSWER|Understand market direction
+CATEGORY|Trend
+POINTS|1
+
+QUESTION|A trend continuation pattern is expected to:
+CHOICES|Continue the existing trend;Reverse the existing trend;Create support;Create resistance
+ANSWER|Continue the existing trend
+CATEGORY|Trend
+POINTS|1
+
+QUESTION|A trend reversal pattern is expected to:
+CHOICES|Change the current trend direction;Continue the current trend;Create consolidation;Increase volume
+ANSWER|Change the current trend direction
+CATEGORY|Trend
+POINTS|1

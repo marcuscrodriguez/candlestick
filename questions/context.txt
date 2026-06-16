@@ -1,0 +1,131 @@
+QUESTION|Price is approaching support and a bullish Pin Bar forms. What is the most likely implication?
+CHOICES|Bullish reversal;Bearish reversal;Breakout lower;Neutral
+ANSWER|Bullish reversal
+CATEGORY|Context
+POINTS|2
+
+QUESTION|Price is approaching resistance and a bearish Pin Bar forms. What is the most likely implication?
+CHOICES|Bullish continuation;Bearish reversal;Bullish breakout;Neutral
+ANSWER|Bearish reversal
+CATEGORY|Context
+POINTS|2
+
+QUESTION|A bullish Engulfing pattern forms at support after a downtrend. What is the most likely implication?
+CHOICES|Bullish reversal;Bearish continuation;Breakout lower;Neutral
+ANSWER|Bullish reversal
+CATEGORY|Context
+POINTS|2
+
+QUESTION|A bearish Engulfing pattern forms at resistance after an uptrend. What is the most likely implication?
+CHOICES|Bullish continuation;Bearish reversal;Bullish breakout;Neutral
+ANSWER|Bearish reversal
+CATEGORY|Context
+POINTS|2
+
+QUESTION|An uptrend is in progress and a bullish 3-Bar Continuation pattern forms. What is the most likely implication?
+CHOICES|Uptrend continues;Trend reverses lower;Breakout fails;Neutral
+ANSWER|Uptrend continues
+CATEGORY|Context
+POINTS|2
+
+QUESTION|A downtrend is in progress and a bearish 3-Bar Continuation pattern forms. What is the most likely implication?
+CHOICES|Downtrend continues;Trend reverses higher;Bullish breakout;Neutral
+ANSWER|Downtrend continues
+CATEGORY|Context
+POINTS|2
+
+QUESTION|Price reaches support and a bullish 3-Bar Reversal forms. What is the most likely implication?
+CHOICES|Bullish reversal;Bearish continuation;Breakout lower;Neutral
+ANSWER|Bullish reversal
+CATEGORY|Context
+POINTS|2
+
+QUESTION|Price reaches resistance and a bearish 3-Bar Reversal forms. What is the most likely implication?
+CHOICES|Bullish continuation;Bearish reversal;Bullish breakout;Neutral
+ANSWER|Bearish reversal
+CATEGORY|Context
+POINTS|2
+
+QUESTION|Several small candles form below resistance followed by a large bullish candle closing above resistance. What is most likely occurring?
+CHOICES|Bullish breakout;Bearish reversal;Continuation lower;Neutral
+ANSWER|Bullish breakout
+CATEGORY|Context
+POINTS|2
+
+QUESTION|Several small candles form above support followed by a large bearish candle closing below support. What is most likely occurring?
+CHOICES|Bearish breakout;Bullish reversal;Continuation higher;Neutral
+ANSWER|Bearish breakout
+CATEGORY|Context
+POINTS|2
+
+QUESTION|Three shrinking bearish candles form into support followed by a large bullish candle. What is the most likely implication?
+CHOICES|Bullish reversal;Bearish continuation;Bullish breakout;Neutral
+ANSWER|Bullish reversal
+CATEGORY|Context
+POINTS|2
+
+QUESTION|Three shrinking bullish candles form into resistance followed by a large bearish candle. What is the most likely implication?
+CHOICES|Bearish reversal;Bullish continuation;Bearish breakout;Neutral
+ANSWER|Bearish reversal
+CATEGORY|Context
+POINTS|2
+
+QUESTION|A bullish Pin Bar forms at a support level that also intersects a rising trendline. This is an example of:
+CHOICES|Confluence;Consolidation;Breakout;Noise
+ANSWER|Confluence
+CATEGORY|Context
+POINTS|2
+
+QUESTION|A bearish Engulfing pattern forms at resistance where a descending trendline also intersects. This is an example of:
+CHOICES|Confluence;Consolidation;Breakout;Noise
+ANSWER|Confluence
+CATEGORY|Context
+POINTS|2
+
+QUESTION|Price is making higher highs and higher lows. Which trend is present?
+CHOICES|Uptrend;Downtrend;Consolidation;Breakout
+ANSWER|Uptrend
+CATEGORY|Context
+POINTS|2
+
+QUESTION|Price is making lower highs and lower lows. Which trend is present?
+CHOICES|Downtrend;Uptrend;Consolidation;Breakout
+ANSWER|Downtrend
+CATEGORY|Context
+POINTS|2
+
+QUESTION|A bullish continuation pattern is generally most useful when:
+CHOICES|An uptrend already exists;A downtrend already exists;The market is closed;No trend exists
+ANSWER|An uptrend already exists
+CATEGORY|Context
+POINTS|2
+
+QUESTION|A bearish continuation pattern is generally most useful when:
+CHOICES|A downtrend already exists;An uptrend already exists;The market is closed;No trend exists
+ANSWER|A downtrend already exists
+CATEGORY|Context
+POINTS|2
+
+QUESTION|A bullish breakout above resistance suggests:
+CHOICES|Buyers have gained control beyond resistance;Sellers have gained control;Support has failed;A reversal lower is guaranteed
+ANSWER|Buyers have gained control beyond resistance
+CATEGORY|Context
+POINTS|2
+
+QUESTION|A bearish breakout below support suggests:
+CHOICES|Sellers have gained control beyond support;Buyers have gained control;Resistance has failed;A reversal higher is guaranteed
+ANSWER|Sellers have gained control beyond support
+CATEGORY|Context
+POINTS|2
+
+QUESTION|A bullish reversal pattern forming in the middle of a strong downtrend, far from support, is generally:
+CHOICES|Less significant than one at support;More significant than one at support;A guaranteed reversal;Always a breakout
+ANSWER|Less significant than one at support
+CATEGORY|Context
+POINTS|2
+
+QUESTION|A bearish reversal pattern forming at resistance with confluence is generally:
+CHOICES|More significant than resistance alone;Less significant than resistance alone;Irrelevant;A guaranteed winning trade
+ANSWER|More significant than resistance alone
+CATEGORY|Context
+POINTS|2

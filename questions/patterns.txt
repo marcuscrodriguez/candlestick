@@ -1,0 +1,371 @@
+QUESTION|An Engulfing pattern is primarily associated with:
+CHOICES|Reversal;Continuation;Breakout;Consolidation
+ANSWER|Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A bullish Engulfing pattern is most significant when found near:
+IMAGE|images/engulfing_bull.png
+CHOICES|Support;Resistance;Mid-range;Random locations
+ANSWER|Support
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A bearish Engulfing pattern is most significant when found near:
+IMAGE|images/engulfing_bear.png
+CHOICES|Support;Resistance;Mid-range;Random locations
+ANSWER|Resistance
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A Pin Bar is characterized by:
+CHOICES|A small body and a large wick on one side;Three candles of the same color;A candle that engulfs the previous candle;Multiple small candles before a breakout
+ANSWER|A small body and a large wick on one side
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A bullish Pin Bar is most significant when found near:
+IMAGE|images/pin_bar_bull.png
+CHOICES|Support;Resistance;Mid-range;Random locations
+ANSWER|Support
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A Pin Bar is primarily associated with:
+CHOICES|Reversal;Continuation;Breakout;Consolidation
+ANSWER|Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A 3-Bar Continuation pattern is primarily associated with:
+CHOICES|Continuation;Reversal;Breakout;Consolidation
+ANSWER|Continuation
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A bullish 3-Bar Continuation pattern suggests:
+IMAGE|images/three_bar_bull_continuation.png
+CHOICES|The uptrend may continue;The downtrend may continue;A reversal lower;A breakout failure
+ANSWER|The uptrend may continue
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A bearish 3-Bar Continuation pattern suggests:
+IMAGE|images/three_bar_bear_continuation.png
+CHOICES|The downtrend may continue;The uptrend may continue;A bullish reversal;A breakout failure
+ANSWER|The downtrend may continue
+CATEGORY|Pattern Classification
+POINTS|1
+
+
+QUESTION|A 3-Bar Reversal pattern is primarily associated with:
+CHOICES|Reversal;Continuation;Breakout;Consolidation
+ANSWER|Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A bullish 3-Bar Reversal is most significant when found near:
+IMAGE|images/three_bar_bull_reversal.png
+CHOICES|Support;Resistance;Mid-range;Random locations
+ANSWER|Support
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A bearish 3-Bar Reversal is most significant when found near:
+IMAGE|images/three_bar_bear_reversal.png
+CHOICES|Support;Resistance;Mid-range;Random locations
+ANSWER|Resistance
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A Breakout pattern occurs when:
+CHOICES|Price moves decisively beyond support or resistance;A candle engulfs another candle;A large wick forms;Three candles form a continuation pattern
+ANSWER|Price moves decisively beyond support or resistance
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A bullish Breakout occurs when price closes:
+IMAGE|images/breakout_bull.png
+CHOICES|Above resistance;Below support;At support;At resistance
+ANSWER|Above resistance
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A bearish Breakout occurs when price closes:
+IMAGE|images/breakout_bear.png
+CHOICES|Below support;Above resistance;At support;At resistance
+ANSWER|Below support
+CATEGORY|Pattern Classification
+POINTS|1
+
+
+QUESTION|Shrinking Candles consist of:
+CHOICES|Three candles decreasing in body size followed by a strong opposite candle;A single candle with a large wick;A candle engulfing another candle;Several candles breaking resistance
+ANSWER|Three candles decreasing in body size followed by a strong opposite candle
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Shrinking Candles are primarily associated with:
+CHOICES|Reversal;Continuation;Breakout;Consolidation
+ANSWER|Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|A bullish Shrinking Candles pattern is most significant when found near:
+IMAGE|images/shrinking_candle_bull.png
+CHOICES|Support;Resistance;Mid-range;Random locations
+ANSWER|Support
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Identify the pattern shown.
+IMAGE|images/engulfing_bull.png
+CHOICES|Engulfing;Pin Bar;Breakout;3-Bar Reversal
+ANSWER|Engulfing
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|What is the directional bias of this pattern?
+IMAGE|images/engulfing_bull.png
+CHOICES|Bullish;Bearish;Neutral
+ANSWER|Bullish
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|This pattern is primarily associated with:
+IMAGE|images/engulfing_bull.png
+CHOICES|Reversal;Continuation;Breakout
+ANSWER|Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Identify the pattern shown.
+IMAGE|images/engulfing_bear.png
+CHOICES|Engulfing;Pin Bar;Breakout;3-Bar Reversal
+ANSWER|Engulfing
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|What is the directional bias of this pattern?
+IMAGE|images/engulfing_bear.png
+CHOICES|Bullish;Bearish;Neutral
+ANSWER|Bearish
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|This pattern is primarily associated with:
+IMAGE|images/engulfing_bear.png
+CHOICES|Reversal;Continuation;Breakout
+ANSWER|Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Identify the pattern shown.
+IMAGE|images/pin_bar_bull.png
+CHOICES|Engulfing;Pin Bar;Breakout;3-Bar Reversal
+ANSWER|Pin Bar
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|What is the directional bias of this pattern?
+IMAGE|images/pin_bar_bull.png
+CHOICES|Bullish;Bearish;Neutral
+ANSWER|Bullish
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|This pattern is primarily associated with:
+IMAGE|images/pin_bar_bull.png
+CHOICES|Reversal;Continuation;Breakout
+ANSWER|Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Identify the pattern shown.
+IMAGE|images/pin_bar_bear.png
+CHOICES|Engulfing;Pin Bar;Breakout;3-Bar Reversal
+ANSWER|Pin Bar
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|What is the directional bias of this pattern?
+IMAGE|images/pin_bar_bear.png
+CHOICES|Bullish;Bearish;Neutral
+ANSWER|Bearish
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|This pattern is primarily associated with:
+IMAGE|images/pin_bar_bear.png
+CHOICES|Reversal;Continuation;Breakout
+ANSWER|Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Identify the pattern shown.
+IMAGE|images/three_bar_bull_continuation.png
+CHOICES|Engulfing;Pin Bar;Breakout;3-Bar Continuation
+ANSWER|3-Bar Continuation
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|What is the directional bias of this pattern?
+IMAGE|images/three_bar_bull_continuation.png
+CHOICES|Bullish;Bearish;Neutral
+ANSWER|Bullish
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|This pattern is primarily associated with:
+IMAGE|images/three_bar_bull_continuation.png
+CHOICES|Reversal;Continuation;Breakout
+ANSWER|Continuation
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Identify the pattern shown.
+IMAGE|images/three_bar_bear_continuation.png
+CHOICES|Engulfing;Pin Bar;Breakout;3-Bar Continuation
+ANSWER|3-Bar Continuation
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|What is the directional bias of this pattern?
+IMAGE|images/three_bar_bear_continuation.png
+CHOICES|Bullish;Bearish;Neutral
+ANSWER|Bearish
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|This pattern is primarily associated with:
+IMAGE|images/three_bar_bear_continuation.png
+CHOICES|Reversal;Continuation;Breakout
+ANSWER|Continuation
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Identify the pattern shown.
+IMAGE|images/three_bar_bull_reversal.png
+CHOICES|Engulfing;Pin Bar;Breakout;3-Bar Reversal
+ANSWER|3-Bar Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|What is the directional bias of this pattern?
+IMAGE|images/three_bar_bull_reversal.png
+CHOICES|Bullish;Bearish;Neutral
+ANSWER|Bullish
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|This pattern is primarily associated with:
+IMAGE|images/three_bar_bull_reversal.png
+CHOICES|Reversal;Continuation;Breakout
+ANSWER|Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Identify the pattern shown.
+IMAGE|images/three_bar_bear_reversal.png
+CHOICES|Engulfing;Pin Bar;Breakout;3-Bar Reversal
+ANSWER|3-Bar Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|What is the directional bias of this pattern?
+IMAGE|images/three_bar_bear_reversal.png
+CHOICES|Bullish;Bearish;Neutral
+ANSWER|Bearish
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|This pattern is primarily associated with:
+IMAGE|images/three_bar_bear_reversal.png
+CHOICES|Reversal;Continuation;Breakout
+ANSWER|Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Identify the pattern shown.
+IMAGE|images/breakout_bull.png
+CHOICES|Engulfing;Pin Bar;Breakout;3-Bar Reversal
+ANSWER|Breakout
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|What is the directional bias of this pattern?
+IMAGE|images/breakout_bull.png
+CHOICES|Bullish;Bearish;Neutral
+ANSWER|Bullish
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|This pattern is primarily associated with:
+IMAGE|images/breakout_bull.png
+CHOICES|Reversal;Continuation;Breakout
+ANSWER|Breakout
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Identify the pattern shown.
+IMAGE|images/breakout_bear.png
+CHOICES|Engulfing;Pin Bar;Breakout;3-Bar Reversal
+ANSWER|Breakout
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|What is the directional bias of this pattern?
+IMAGE|images/breakout_bear.png
+CHOICES|Bullish;Bearish;Neutral
+ANSWER|Bearish
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|This pattern is primarily associated with:
+IMAGE|images/breakout_bear.png
+CHOICES|Reversal;Continuation;Breakout
+ANSWER|Breakout
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Identify the pattern shown.
+IMAGE|images/shrinking_candle_bull.png
+CHOICES|Engulfing;Pin Bar;Shrinking Candle;3-Bar Reversal
+ANSWER|Shrinking Candle
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|What is the directional bias of this pattern?
+IMAGE|images/shrinking_candle_bull.png
+CHOICES|Bullish;Bearish;Neutral
+ANSWER|Bullish
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|This pattern is primarily associated with:
+IMAGE|images/shrinking_candle_bull.png
+CHOICES|Reversal;Continuation;Breakout
+ANSWER|Reversal
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|Identify the pattern shown.
+IMAGE|images/shrinking_candle_bear.png
+CHOICES|Engulfing;Pin Bar;Shrinking Candle;3-Bar Reversal
+ANSWER|Shrinking Candle
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|What is the directional bias of this pattern?
+IMAGE|images/shrinking_candle_bear.png
+CHOICES|Bullish;Bearish;Neutral
+ANSWER|Bearish
+CATEGORY|Pattern Classification
+POINTS|1
+
+QUESTION|This pattern is primarily associated with:
+IMAGE|images/shrinking_candle_bear.png
+CHOICES|Reversal;Continuation;Breakout
+ANSWER|Reversal
+CATEGORY|Pattern Classification
+POINTS|1
